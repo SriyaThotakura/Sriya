@@ -1,7 +1,7 @@
 [
   {
     "category": "Parametric Tools & BIM Innovation",
-    "image": "/assets/Work+Play/parametric-zoning Gif.gif",
+    "image": "/Sriya/assets/Work+Play/parametric-zoning Gif.gif",
     "title": "Parametric Zoning Tool",
     "description": "Translating complex urban regulations into generative geometry through Grasshopper automation.",
     "technologies": [],
@@ -15,7 +15,7 @@
   },
   {
     "category": "Parametric Tools & BIM Innovation",
-    "image": "/assets/Work+Play/web-bim.png",
+    "image": "/Sriya/assets/Work+Play/web-bim.png",
     "title": "Web BIM",
     "description": "Making Revit/BIM data accessible via web for enhanced interoperability.",
     "technologies": [],
@@ -29,7 +29,7 @@
   },
   {
     "category": "Parametric Tools & BIM Innovation",
-    "image": "/assets/Work+Play/cdw.gif",
+    "image": "/Sriya/assets/Work+Play/cdw.gif",
     "title": "Computational Design Workflows",
     "description": "Algorithmic logic and systematic approach to design problems.",
     "technologies": [],
@@ -43,7 +43,7 @@
   },
   {
     "category": "Urban Data Science & Climate Resilience",
-    "image": "/assets/Work+Play/leap-scroll.png",
+    "image": "/Sriya/assets/Work+Play/leap-scroll.png",
     "title": "LEAP Pangeo Hackathon: Scroll",
     "description": "Co-Creating Climate Resilience in NYC through data-driven design solutions.",
     "technologies": [],
@@ -57,7 +57,7 @@
   },
   {
     "category": "Urban Data Science & Climate Resilience",
-    "image": "/assets/Work+Play/south-bronx.png",
+    "image": "/Sriya/assets/Work+Play/south-bronx.png",
     "title": "South Bronx: Regulatory Spillovers",
     "description": "GIS and Agent-Based Modeling analysis of environmental inequality in the '40% grey city'.",
     "technologies": [],
@@ -71,7 +71,7 @@
   },
   {
     "category": "Advanced Architectural Design",
-    "image": "/assets/Work+Play/archi-portfolio.png",
+    "image": "/Sriya/assets/Work+Play/archi-portfolio.png",
     "title": "2025 Architecture Portfolio",
     "description": "B.Arch work featuring Mumbai Social Housing thesis and Adaptive Reuse research.",
     "technologies": [],
@@ -84,7 +84,7 @@
   },
   {
     "category": "Advanced Architectural Design",
-    "image": "/assets/Work+Play/professional-work.png",
+    "image": "/Sriya/assets/Work+Play/professional-work.png",
     "title": "Professional Work",
     "description": "LAD 360 & Studio PKA: High-end residential and WAF-nominated adaptive reuse projects.",
     "technologies": [],
@@ -98,7 +98,7 @@
   },
   {
     "category": "Emerging Tech & Communication",
-    "image": "/assets/Work+Play/stable-diffusion.png",
+    "image": "/Sriya/assets/Work+Play/stable-diffusion.png",
     "title": "Stable Diffusion / Figma UI",
     "description": "Human-centered AI workflow and UI/UX prototyping for design applications.",
     "technologies": [],
@@ -112,7 +112,7 @@
   },
   {
     "category": "Emerging Tech & Communication",
-    "image": "/assets/Work+Play/colloquium1.png",
+    "image": "/Sriya/assets/Work+Play/colloquium1.png",
     "title": "Colloquium I & Propose",
     "description": "Synthesizing complex theories through strong verbal and written communication.",
     "technologies": [],

@@ -60,7 +60,7 @@ const HomeSection = React.forwardRef((props, aboutRef) => {
       <HeroBanner>
         <HeroImage src={sriyaPhoto} alt="Sriya's Photo" />
         <HeroText>
-          Heyoo,
+          Hello,
           <br /> I’m
           <AccentText> Sriya Thotakura</AccentText>
         </HeroText>

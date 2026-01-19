@@ -131,7 +131,7 @@ const ProjectsSection = () => {
     <ProjectsWrapper>
       <ProjectsHeading>
         All Work and
-        <img src="/assets/Work+Play/noStriked.svg" alt="no" />
+        <img src="/Sriya/assets/Work+Play/noStriked.svg" alt="no" />
         Play<AccentText>.</AccentText>
       </ProjectsHeading>
       {projects.map((project, index) => {
