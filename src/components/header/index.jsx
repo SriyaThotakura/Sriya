@@ -1,8 +1,8 @@
 import { ArrowDownload24Filled, Open20Filled } from "@fluentui/react-icons";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
-import resume from "/assets/about/resume.pdf";
-import surajThotakuraIcon from "/assets/suraj-thotakura-logo.svg";
+import resume from "@assets/about/resume.pdf";
+import sriyaThotakuraIcon from "@assets/suraj-thotakura-logo.svg";
 import { colors, mobileBreakPoint } from "../../constants";
 import { useState } from "react";
 
@@ -203,7 +203,7 @@ const Header = (props) => {
             });
           }}
         >
-          <LogoImage src={surajThotakuraIcon} alt="surajThotakuraIcon" />
+          <LogoImage src={sriyaThotakuraIcon} alt="sriyaThotakuraIcon" />
         </Logo>
         <MenuSection menuOpen={menuOpen}>
           <HeaderListMiddle>

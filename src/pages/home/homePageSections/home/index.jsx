@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { colors, mobileBreakPoint } from "../../../../constants";
-import surajPhoto from "/assets/suraj-photo.png";
+import sriyaPhoto from "@assets/sriya-photo.png";
 import { PolygonPond } from "../../../../components/polygonPond";
 
 const HeroBanner = styled.div`
@@ -58,7 +58,7 @@ const HomeSection = React.forwardRef((props, aboutRef) => {
   return (
     <PolygonPond>
       <HeroBanner>
-        <HeroImage src={surajPhoto} alt="Suraj's Photo" />
+        <HeroImage src={sriyaPhoto} alt="Sriya's Photo" />
         <HeroText>
           Heyoo,
           <br /> I’m
