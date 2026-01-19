@@ -242,7 +242,7 @@ const Header = (props) => {
             </ListItem>
             <ListItem>
               <ResumeLink
-                href={resume}
+                href={`${resume}?t=${new Date().getTime()}`}
                 target="_blank"
                 rel="noreferrer noopener"
               >

@@ -248,7 +248,7 @@ const About = () => {
           </TimelieWrapper>
           <TheMakings src={theMakings} alt="#The-Makings" />
         </QualificationsWrapper>
-        <DownloadResume href={resume} target="_blank" rel="noreferrer noopener">
+        <DownloadResume href={`${resume}?t=${new Date().getTime()}`} target="_blank" rel="noreferrer noopener">
           Download Resume
           <ArrowDownload24Filled />
         </DownloadResume>
