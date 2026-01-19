@@ -62,7 +62,7 @@ const HomeSection = React.forwardRef((props, aboutRef) => {
         <HeroText>
           Heyoo,
           <br /> I’m
-          <AccentText> Suraj Thotakura</AccentText>
+          <AccentText> Sriya Thotakura</AccentText>
         </HeroText>
       </HeroBanner>
       <IntroWrapper>

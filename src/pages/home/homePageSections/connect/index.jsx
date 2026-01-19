@@ -50,7 +50,7 @@ const Connect = () => {
   return (
     <ConnectIntro>
       <IntroHeading>
-        Wanna send a <AccentText>Heyoo?</AccentText>
+        Wanna send a <AccentText>Hello?</AccentText>
       </IntroHeading>
       <IntroContent>
         Please feel free to get in touch, and I will respond as soon as
@@ -58,8 +58,8 @@ const Connect = () => {
         <br />
         <br />
         Email to:{" "}
-        <EmailLink href="mailto:surajsatya007@gmail.com">
-          surajsatya007@gmail.com
+        <EmailLink href="mailto:st3827@columbia.edu">
+          st3827@columbia.edu
         </EmailLink>
       </IntroContent>
     </ConnectIntro>

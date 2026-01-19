@@ -43,32 +43,32 @@ const Footer = () => {
       </StyledHeading>
       <IconsWrapper>
         <a
-          href="https://www.linkedin.com/in/surajthotakura007/"
+          href="https://www.linkedin.com/in/sriya-thotakura/"
           target="_blank"
           rel="noreferrer noopener"
         >
           <img src={linkedin} alt="Linkedin Icon" />
         </a>
         <a
-          href="https://github.com/SurajThotakura"
+          href="https://github.com/SriyaThotakura"
           target="_blank"
           rel="noreferrer noopener"
         >
           <img src={github} alt="GitHub Icon" />
         </a>
         <a
-          href="https://dribbble.com/surajsatya007"
+          href="https://dribbble.com/sriya_t"
           target="_blank"
           rel="noreferrer noopener"
         >
           <img src={dribbble} alt="Dribbble Icon" />
         </a>
         <a
-          href="https://codepen.io/suraj-thotakura"
+          href="https://issuu.com/svcasriyat/docs/2025_archi_portfolio"
           target="_blank"
           rel="noreferrer noopener"
         >
-          <img src={codepen} alt="Codepen Icon" />
+          <img src={codepen} alt="Issuu Icon" />
         </a>
       </IconsWrapper>
     </StyledFooter>

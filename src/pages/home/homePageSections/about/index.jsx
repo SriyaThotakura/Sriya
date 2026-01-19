@@ -197,7 +197,7 @@ const storyLine = [
   },
   {
     src: college,
-    alt: "Suraj in his college",
+    alt: "Sriya in her college",
   },
 ];
 
