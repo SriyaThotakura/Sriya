@@ -170,13 +170,19 @@ const workExperience = {
     {
       institute: "LAD 360",
       qualification: "Junior Architect",
-      from: 2024,
-      to: "Present",
+      from: 2025,
+      to: 2025,
+    },
+    {
+      institute: "Studio PKA",
+      qualification: "Architectural Intern",
+      from: 2023,
+      to: 2023,
     },
     {
       institute: "National Association of Students of Architecture",
       qualification: "Student Delegate",
-      from: 2023,
+      from: 2019,
       to: 2024,
     },
   ],
@@ -185,19 +191,19 @@ const workExperience = {
 const storyLine = [
   {
     src: robot,
-    alt: "cardboard robot",
+    alt: "",
   },
   {
     src: PSP,
-    alt: "PSP and PC with 256MB RAM",
+    alt: "",
   },
   {
     src: atmos,
-    alt: "Atmos website",
+    alt: "",
   },
   {
     src: college,
-    alt: "Sriya in her college",
+    alt: "",
   },
 ];
 
