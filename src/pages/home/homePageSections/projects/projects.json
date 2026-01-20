@@ -7,9 +7,8 @@
     "technologies": [],
     "links": [
       {
-        "url": "/inProgress",
-        "label": "View Project",
-        "isInternal": true
+        "url": "https://medium.com/generative-design-course/parametric-zoning-tool-06b9565e2bca",
+        "label": "View Project"
       }
     ]
   },
@@ -21,9 +20,8 @@
     "technologies": [],
     "links": [
       {
-        "url": "/inProgress",
-        "label": "View Project",
-        "isInternal": true
+        "url": "https://sriyathotakura.github.io/web_bim/",
+        "label": "View Project"
       }
     ]
   },
@@ -35,9 +33,8 @@
     "technologies": [],
     "links": [
       {
-        "url": "/inProgress",
-        "label": "View Project",
-        "isInternal": true
+        "url": "https://sriyathotakura.github.io/cdw-public/",
+        "label": "View Project"
       }
     ]
   },
@@ -49,9 +46,8 @@
     "technologies": [],
     "links": [
       {
-        "url": "/inProgress",
-        "label": "View Project",
-        "isInternal": true
+        "url": "https://sriyathotakura.github.io/Scroll/",
+        "label": "View Project"
       }
     ]
   },
@@ -63,9 +59,8 @@
     "technologies": [],
     "links": [
       {
-        "url": "/inProgress",
-        "label": "View Project",
-        "isInternal": true
+        "url": "https://sriyathotakura.github.io/Final_GIS/",
+        "label": "View Project"
       }
     ]
   },
@@ -88,13 +83,7 @@
     "title": "Professional Work",
     "description": "LAD 360 & Studio PKA: High-end residential and WAF-nominated adaptive reuse projects.",
     "technologies": [],
-    "links": [
-      {
-        "url": "/inProgress",
-        "label": "View Project",
-        "isInternal": true
-      }
-    ]
+    "links": []
   },
   {
     "category": "Emerging Tech & Communication",
@@ -104,26 +93,38 @@
     "technologies": [],
     "links": [
       {
-        "url": "/inProgress",
-        "label": "View Project",
-        "isInternal": true
+        "url": "https://www.figma.com/design/KDpTHicyv8ytAJddnMdMVS/stablediffusion-1-?node-id=0-1&m=dev&t=s8ZD3fcYa3oqLfCV-1",
+        "label": "View Project"
       }
     ]
   },
   {
     "category": "Emerging Tech & Communication",
     "image": "/Sriya/assets/Work+Play/colloquium1.png",
-    "title": "Colloquium I & Propose",
+    "title": "Colloquium I",
     "description": "Synthesizing complex theories through strong verbal and written communication.",
     "technologies": [],
     "links": [
       {
         "url": "https://sriyathotakura.github.io/colloquium-i/",
-        "label": "Colloquium I"
+        "label": "View Project"
       },
       {
+        "url": "https://sriyathotakura.github.io/precedent-study/",
+        "label": "Precedent"
+      }
+    ]
+  },
+  {
+    "category": "Emerging Tech & Communication",
+    "image": "/Sriya/assets/Work+Play/colloquium2.png",
+    "title": "Propose",
+    "description": "Feral Agent: Exploring autonomous systems and emergent behaviors in urban environments.",
+    "technologies": [],
+    "links": [
+      {
         "url": "https://sriyathotakura.github.io/Propose/",
-        "label": "Propose"
+        "label": "View Project"
       }
     ]
   }
