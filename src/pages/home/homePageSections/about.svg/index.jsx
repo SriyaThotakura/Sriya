@@ -2,10 +2,10 @@ import React from "react";
 import styled from "styled-components";
 import Timeline from "../../../../components/timeline";
 import StoryBlock from "../../../../components/storyBlock";
-import robot from "@assets/about/robot.svg";
-import PSP from "@assets/about/PSP.svg";
-import atmos from "@assets/about/atmos.svg";
-import college from "@assets/about/college.svg";
+import robot from "../../../../../src/assets/about/robot.svg.png";
+import PSP from "../../../../../src/assets/about/PSP.svg.png";
+import atmos from "../../../../../src/assets/about/atmos.svg.png";
+import college from "../../../../../src/assets/about/college.svg.png";
 import theMakings from "@assets/about/theMakings.svg";
 import resume from "@assets/about/resume.pdf";
 import HeartBeat from "../../../../components/minorComponents/heartBeat";
@@ -138,16 +138,28 @@ const education = {
   title: "Education",
   info: [
     {
-      institute: "BITS, Pilani Hyderabad",
-      qualification: "B.E. Mechanical Engineering",
-      from: 2016,
+      institute: "Columbia University | Graduate School of Architecture, Planning & Preservation",
+      qualification: "Master of Science in Computational Design",
+      from: 2025,
       to: "Present",
     },
     {
-      institute: "Sri Chaitanya Jr Kalasala",
-      qualification: "Telangana State Board of Intermediate, MPC",
-      from: 2015,
-      to: 2016,
+      institute: "JNAFAU | Hyderabad",
+      qualification: "Bachelor of Architecture",
+      from: 2019,
+      to: 2024,
+    },
+    {
+      institute: "CEPT University",
+      qualification: "Summer Winter School: Printmaking workshop - Etching and cynotype",
+      from: 2020,
+      to: 2023,
+    },
+    {
+      institute: "+1 +2 | St.Andrews High School",
+      qualification: "Maths, Physics, Chemistry, C++",
+      from: 2019,
+      to: 2020,
     },
   ],
 };
@@ -156,28 +168,16 @@ const workExperience = {
   title: "Work Experience",
   info: [
     {
-      institute: "Cisco",
-      qualification: "Product Manager",
+      institute: "LAD 360",
+      qualification: "Junior Architect",
       from: 2024,
       to: "Present",
     },
     {
-      institute: "Cisco",
-      qualification: "Software Engineer",
+      institute: "National Association of Students of Architecture",
+      qualification: "Student Delegate",
       from: 2023,
       to: 2024,
-    },
-    {
-      institute: "Cisco",
-      qualification: "Product Designer",
-      from: 2020,
-      to: 2023,
-    },
-    {
-      institute: "IMI Mobile",
-      qualification: "UI/UX Design Intern",
-      from: 2019,
-      to: 2020,
     },
   ],
 };
@@ -223,11 +223,13 @@ const About = () => {
           <IntroContent>
             <StoryBlock storyLine={storyLine} />
             <IntroEnd>
-              Now, I’m a product manager at Webex, working on AI Agent
-              integrations and voice experiences. With a background in design
-              and engineering, I'm always hands-on with both design and code. My
-              work spans all corners of product development, while collaborating
-              with diverse teams and stakeholders.
+              I am a Computational Design student at Columbia GSAPP, 
+              driven by the meritocracy of ideas to solve complex spatial challenges through data and code. 
+              My portfolio spans the development of parametric zoning tools and Web BIM interfaces and
+              Visualizing trivariate environmental analysis in the South Bronx. 
+              By combining an A+ academic standing in 'Leading Large Complex Projects' and 
+              a professional experience on WAF-nominated adaptive reuse at Studio PKA, 
+              I offer a unique synthesis of technical innovation, project management, and site-ready constructability.
               <LastLine>
                 At the heart of it, I’m still doing what I love—bringing ideas
                 to life through{" "}
