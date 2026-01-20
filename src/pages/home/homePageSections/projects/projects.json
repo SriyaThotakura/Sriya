@@ -127,5 +127,18 @@
         "label": "View Project"
       }
     ]
+  },
+  {
+    "category": "Emerging Tech & Communication",
+    "image": "/Sriya/assets/Work+Play/llcp.png",
+    "title": "Leading Large Complex Projects",
+    "description": "Pitch proposal for Future Projects: Major Learnings in Risk Management, Reserves, and Mitigation Focus for Technical Risk.",
+    "technologies": [],
+    "links": [
+      {
+        "url": "https://sriyathotakura.github.io/web_LLCP/",
+        "label": "View Project"
+      }
+    ]
   }
 ]
